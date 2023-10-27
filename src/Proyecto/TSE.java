@@ -169,7 +169,7 @@ public class TSE {
                 user.agregarUsuario();
                 
             } else if(opcion == 3){
-                System.out.println("Opción no válida.");
+                System.out.println("Adios usuario");
                 break;
                         
             }
