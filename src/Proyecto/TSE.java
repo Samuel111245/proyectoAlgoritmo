@@ -51,18 +51,18 @@ public class TSE {
                     // Menú específico según el rol
                     while (true) {
                         System.out.println("### Menú de " + rol + " ###");
-                        if(rol.equals("Administrador"))
+                        if(rol.equals("Administrador")){
                             System.out.println("1. Crear elecciones");
-                        
-                        if(rol.equals("RegistradorDeVotante"))
+                        }
+                        if(rol.equals("RegistradorDeVotante")){
                             System.out.println("2. Inscribir Votante");
-                        
-                        if(rol.equals("Votante"))
+                        }
+                        if(rol.equals("Votante")){
                             System.out.println("3. Votar");
-                        
-                        if(rol.equals("Auditor"))
+                        }
+                        if(rol.equals("Auditor")){
                             System.out.println("4. Generar reporte");
-                        
+                        }
                         System.out.println("");
                         System.out.println("");
                         System.out.println("Seleccione una opción o presione 5 para salir  ");
@@ -115,11 +115,12 @@ public class TSE {
                                 break;
                             case 3:
                                 Votante vt = new Votante();
-                                System.out.println("Ingrese una fecha");
-                                String fecha = scanner.next();
+                                System.out.println("Ingrese una fecha (YYYY-MM-DD HH:MM)");
+                                scanner.nextLine();
+                                String fecha = scanner.nextLine();
                                 vt.mostrarEleccionesPorFecha(fecha);
-                                System.out.println("");
-                                System.out.println("");
+                                System.out.print("");
+                                System.out.print("");
                                 System.out.println("Ingrese el codigo de eleccion");
                                 String id = scanner.next();
                                 vt.mostrarCandidatosPorEleccion(id);

@@ -1,3 +1,7 @@
 
 Gerlin Dayana,Estrada Munoz,3040792940111,F,02/03/1998,Los Cafetales,Gutaremala,San Raymundo,Guatemala,JQ4zuTf4zNCuG5iZ
 Joel,Iquite,123456789,M,10/02/1995,Cruz Blanca,Guatemala,San Juan ,Guatemala,y4gPSsJoo8Osq4NV
+samuel,de leon,123456789,m,12/05/2000,parque central,guatemala,san pedro sacatepeuqeez,guatemala,Ez9O49FjBb2OU6Js
+samuel,de leon,123456789,m,22/05/2000,san pedro,guatemala ,guatemala ,guatemala ,V2ZnBJXCuVr5r4DE
+canche,21,123456,m,22/04/1999,san pedro sac,,guatemala,guatemala ,gDiZ1XssUcBMU1yc
+hector,granados,123456789987,h,10/01/1995,san juan sac,guatemala,guatemala,guatemala ,IkdsIyCMg2DORNGp

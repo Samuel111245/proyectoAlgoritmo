@@ -3,3 +3,12 @@ Selvin,Locon,selvin@gmail.com,123456,RegistradorDeVotantes
 Meibin,Locon,meibin@gmail.com,123456,Auditor
 Gerson,Gonzales,gerson@gmail.com,1234556,Auditor
 Jose,Avila,jose@gmail.com,123456,RegistradorDeVotante
+canche,martinez,samuel@hotmail.com,122334455,Administrador
+sam,3,elmersgrana6321,sami123456,Votante
+luis,san jose,luis@gmail.com,luis1234,Votante
+sergio,busquets,serio@gmail.com,sergio123,Administrador
+kevin,aldair,kevin12@gmail.com,kevin123,Votante
+jeni,monroy,jenis12@gmaul.com,jenis123,Votante
+Melvin,Nick,melvin14@gmail.com,melvin11,Administrador
+karla,ajcip,karla11@gmail.com,karla11,Votante
+kari,ortiz,kario11@gmail.com,kari11,Auditor
